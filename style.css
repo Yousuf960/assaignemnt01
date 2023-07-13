@@ -1,0 +1,148 @@
+/* Common shared styles */
+
+.text-primary{
+    color: #E55473;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 10px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.b-radius{
+    border-radius: 300px 300px 0px 0px;
+}
+.ul-style{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+/* Header section part css */
+.main-div{
+    background: #e554731a;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    align-items: center;
+    padding: 0px 50px;
+}
+.header-section-title{
+    color: #272727;
+    font-size: 30px;
+}
+.header-section-description{
+    color: #27272799;
+    font-size: 18px;
+}
+
+/* Main section part css */
+
+.sub-section-1{
+    text-align: center;
+}
+.main-section-1-title{
+
+}
+
+.sub-section-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.main-section-2{
+    display: flex;
+    justify-content: space-between;
+    background: #2727270d;
+    border-radius: 8px;
+    margin: 50px 100px;
+}
+
+.main-section-3{
+    background: #e554731a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 70px;
+}
+.main-section3-title{
+    color: #272727;
+    font-size: 30px;
+}
+.main-section3-description{
+    color: #27272799;
+    font-size: 15px;
+}
+
+.main-section-4{
+    text-align: center;
+
+}
+.main-section4-title{
+    color: #272727;
+    font-size: 30px;
+
+}
+.main-section4-description{
+    color: #27272799;
+    font-size: 15px;
+}
+.main-section-4-div2{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin-left: 220px;
+}
+
+.main-section-5{
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    margin: 50px 100px;
+    padding: 50px 100px;
+    text-align: center;
+}
+.main-section5-title{
+color: #272727;
+    font-size: 30px;
+}
+.main-section5-description{
+    color: #27272799;
+    font-size: 15px;
+}
+.main-section-5-input{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 10px 20px;
+}
+
+
+/* footer section style */
+
+.footer-section{
+    background: #111010;
+    text-align: center;
+    padding: 50px 100px;
+    margin-top: ;
+}
+
+.footer-section-title{
+font-size: 30px;
+}
+
+.footer-section-description01{
+    color: #ffffffe6;
+    font-size: 15px;
+}
+
+.footer-description02{
+    color: #ffffff66;
+    font-size: 8px;
+}
